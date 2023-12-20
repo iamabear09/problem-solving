@@ -3,6 +3,9 @@
 - Python 사용
 
 ---
+**📌2023.12.20**
+- leetcode 39
+
 **📌2023.12.19**
 - programmers 고득점 kit - dfs/bfs: transform word
 
